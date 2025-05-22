@@ -1,6 +1,6 @@
 # Python Fundamentals Demo
 
-This project demonstrates core Python programming concepts and best practices. It's designed to showcase my understanding of Python fundamentals to potential employers.
+This project demonstrates core Python programming concepts and best practices. It's designed to showcase my understanding of Python fundamentals.
 
 ## Features Demonstrated
 
